@@ -1,0 +1,9 @@
+Q:\nopCommerce\nopCommerce 3.70\Plugins\Nop.Plugin.Misc.ApiService\obj\Debug\Nop.Plugin.Misc.ApiService.csprojResolveAssemblyReference.cache
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.ApiService\Description.txt
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.ApiService\logo.jpg
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.ApiService\Views\Configure.cshtml
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.ApiService\Views\Web.config
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.ApiService\Misc.ApiService.dll
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.ApiService\Misc.ApiService.pdb
+Q:\nopCommerce\nopCommerce 3.70\Plugins\Nop.Plugin.Misc.ApiService\obj\Debug\Misc.ApiService.dll
+Q:\nopCommerce\nopCommerce 3.70\Plugins\Nop.Plugin.Misc.ApiService\obj\Debug\Misc.ApiService.pdb

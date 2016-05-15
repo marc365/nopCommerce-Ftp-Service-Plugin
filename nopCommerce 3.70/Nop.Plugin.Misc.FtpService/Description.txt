@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: Ftp Service
+SystemName: Misc.FtpService
+Version: 1.00
+SupportedVersions: 3.70
+Author: Nop Content
+DisplayOrder: 1
+FileName: Misc.FtpService.dll

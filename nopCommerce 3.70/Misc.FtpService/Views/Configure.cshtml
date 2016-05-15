@@ -1,0 +1,23 @@
+﻿@model FtpService.Models.ConfigureModel
+
+@using (Html.BeginForm())
+{
+@Html.AntiForgeryToken()
+<table class="adminContent">
+    <tr>
+        <td class="adminTitle">@Html.NopLabelFor(model => model.Server):</td>
+        <td class="adminData">@Html.EditorFor(model => model.Server)</td>
+    </tr>
+    <tr>
+        <td class="adminTitle">@Html.NopLabelFor(model => model.UserName):</td>
+        <td class="adminData">@Html.EditorFor(model => model.UserName)</td>
+    </tr>
+    <tr>
+        <td class="adminTitle">@Html.NopLabelFor(model => model.Password):</td>
+        <td class="adminData">@Html.EditorFor(model => model.Password)</td>
+    </tr>
+    <tr>
+        <td colspan="2"><input type="submit" name="save" class="k-button" value="@T("Admin.Common.Save")" /></td>
+    </tr>
+</table>
+}

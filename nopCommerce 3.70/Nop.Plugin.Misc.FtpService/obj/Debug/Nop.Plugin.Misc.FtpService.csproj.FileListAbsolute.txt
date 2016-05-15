@@ -1,0 +1,9 @@
+Q:\nopCommerce\nopCommerce 3.70\Plugins\Nop.Plugin.Misc.FtpService\obj\Debug\Nop.Plugin.Misc.FtpService.csprojResolveAssemblyReference.cache
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.FtpService\Description.txt
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.FtpService\logo.jpg
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.FtpService\Views\Configure.cshtml
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.FtpService\Views\Web.config
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.FtpService\Misc.FtpService.dll
+Q:\nopCommerce\nopCommerce 3.70\Presentation\Nop.Web\Plugins\Misc.FtpService\Misc.FtpService.pdb
+Q:\nopCommerce\nopCommerce 3.70\Plugins\Nop.Plugin.Misc.FtpService\obj\Debug\Misc.FtpService.dll
+Q:\nopCommerce\nopCommerce 3.70\Plugins\Nop.Plugin.Misc.FtpService\obj\Debug\Misc.FtpService.pdb
