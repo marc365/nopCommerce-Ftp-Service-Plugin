@@ -16,7 +16,7 @@ namespace FtpPlugin
     {
         public void Register(ContainerBuilder builder, ITypeFinder typeFinder, NopConfig config)
         {
-            builder.RegisterType<FtpService>().As<IFtpService>().InstancePerLifetimeScope();
+            builder.RegisterType<IFtpService>().As<IFtpService>().InstancePerLifetimeScope();
         }
 
         public int Order
